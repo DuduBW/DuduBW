@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DuduBW
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá meu nome é @Eduardo Budurow     
+-  Meu email de contato é eduardo.budurowda.silva@escola.pr.gov.br
+- 👀 Eu estou interessado em aprender a programar novas linguagens
+- 🌱Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch 
+
 
 <!---
 DuduBW/DuduBW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
